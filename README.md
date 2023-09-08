@@ -8,7 +8,7 @@ This project focuses on using clustering techniques to analyze and group credit 
 
 In this repository, you will find:
 
-- **Data**: The dataset used for clustering analysis.
+- **Data**: The dataset used for clustering analysis ("CC GENERAL.csv").
 - **Notebooks**: Jupyter notebooks containing the code for data preprocessing, clustering, and visualization.
 - **Results**: Visualization files, reports, or summaries of the clustering results.
 
